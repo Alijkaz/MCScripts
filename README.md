@@ -1,2 +1,2 @@
-# MC-Scripts
+# MCScripts
 Useful repetitive Minecraft scripts
